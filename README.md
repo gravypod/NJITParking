@@ -1,3 +1,5 @@
+![Example of Plot Output](http://parking.joshuakatz.me/njit/past-7-days.png)
+
 # Don't send your kids to college. There's no parking!
 
 NJIT has no parking.
