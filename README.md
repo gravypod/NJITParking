@@ -42,7 +42,7 @@ Thursday their overflow lot should open at 10:30AM to 11AM. On
 Wednesday I belive the noon-open policy would be fine. 
 
 
-# Decitions
+# Decisions
 
 Part of this is in PHP, Python 2, and Python 3. These scripts are 
 running on multiple <1GB of ram VMs I have and communicate with 
